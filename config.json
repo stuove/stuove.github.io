@@ -4,8 +4,6 @@
     "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION": "last",
     "exlink": {
-        "TomatoClock": "/clock"
-    },
-    "iconList": {
-        "TomatoClock": "🍅"}
+         "🍅 TomatoClock": "/clock"
+    }
 }
