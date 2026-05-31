@@ -6,5 +6,6 @@
     "exlink": {
         "TomatoClock": "/clock"
     },
-    "iconList": {"TomatoClock": "🍅"}
+    "iconList": {
+        "TomatoClock": "🍅"}
 }
