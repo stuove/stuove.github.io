@@ -3,7 +3,5 @@
     "subTitle": "21:00关机熄灯22:00闭眼睡",
     "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION": "last",
-    "exlink": {
-        "🍅 Clock": "/clock"
-    }
+    "indexScript": "<script>window.addEventListener('DOMContentLoaded', function() { var nav = document.createElement('div'); nav.style.cssText = 'position:sticky; top:0; background:white; padding:10px 20px; border-bottom:1px solid #ddd; z-index:999; text-align:right;'; nav.innerHTML = '<a href=\"/clock\" style=\"margin-right:20px; text-decoration:none; color:#2b5e3b;\">🍅 TomatoClock</a><a href=\"/clock\" style=\"margin-right:20px; text-decoration:none; color:#2b5e3b;\">📖 关于</a><a href=\"/list\" style=\"text-decoration:none; color:#2b5e3b;\">🔗 友链</a>'; document.body.insertBefore(nav, document.body.firstChild); });</script>"
 }
