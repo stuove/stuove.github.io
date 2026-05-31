@@ -3,4 +3,8 @@
     "subTitle":"21:00关机熄灯22:00闭眼睡",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last"
+    "exlink": [
+        {"name":"Tomato Clock", "url":"/clock"},
+        {"name":"Todo Flag Wish", "url":"/list"}
+    ]
 }
