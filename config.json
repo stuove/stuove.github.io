@@ -3,10 +3,7 @@
     "subTitle": "21:00关机熄灯22:00闭眼睡",
     "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION": "last",
-    "exlink": [
-        {
-            "name": "TomatoClock",
-            "url": "/clock"
-        }
-    ]
+    "exlink": {
+        "TomatoClock": "/clock"
+    }
 }
